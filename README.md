@@ -1,1 +1,1 @@
-# openCitations_deposit
+# open_citations_croci_depot
