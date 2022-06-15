@@ -15,29 +15,32 @@ The structure is an combination of META-CSV and CITS-CSV as described https://ar
 
 ```
 [ 
-	{
-		"ids": { "doi": "10.1007/978-3-030-00668-6_8" },
-		"title": "The SPAR Ontologies",
-		"author": [ { "name": "Peroni, Silvio", "ids": { "orcid": "0000-0003-0530-4305" } } , 
-				{ "name": "Shotton, David", "ids": { "orcid":"0000-0001-5506-523X" } } ],
-		"pub_date": "2018",
-		"venue": [ { "name": "17th ISWC", "ids": { "doi": "10.1007/978-3-030-00668-6" } } ],
-		"volume": "1",
-		"issue": "1-2",
-		"page": "119-136",
-		"type": "book chapter",
-		"publisher": [ { "name": "Springer International Publishing", "ids": { "crossref": "297" }} ],
-		"editor": [ { "name": "Peroni, Silvio", "ids": { "orcid": "0000-0003-0530-4305" } } ],
-		"citing": [ 
-			{ "ids": { "doi": "10.1087/2009202;2009-04-01" }, "date": "2009-04-01", "raw": "" },
-			{ "ids": { "doi": "10.1371/journal.pcbi.1000361" }, "date": "", "raw": "" },
-			{ "ids": { "doi": "10.1007/978-3-642-33876-2_35" }, "date": "2012", "raw": "" },
-			{ "ids": { "doi": "10.1186/2041-1480-1-S1-S6" }, "date": "2010-06-22", "raw": "" },
-			{ "ids": { "doi": "10.1145/945645.945664" }, "date": "2003-10-23", "raw": "" },
-			{ "ids": {}, "date": "", "raw": "Gangemi, A., Peroni, S., Vitali, F.: Literal reification. In: Proceedings of WOP 2010, pp. 65–66 (2010). http://ceur-ws.org/Vol-671/pat04.pdf" },
-			{ "ids": {}, "date": "", "raw": "Hammond, T., Pasin, M.: The nature.com ontologies portal. In: Proceedings of LISC 2015 (2015). http://ceur-ws.org/Vol-1572/paper2.pdf" }
-		]
-	} 
+  {
+    "ids": { "doi": "10.1007/978-3-030-00668-6_8" },
+    "title": "The SPAR Ontologies",
+    "author": [ 
+      { "name": "Peroni, Silvio", "ids": { "orcid": "0000-0003-0530-4305" } } , 
+      { "name": "Shotton, David", "ids": { "orcid":"0000-0001-5506-523X" } } ],
+    "pub_date": "2018",
+    "venue": [ 
+      { "name": "17th ISWC", "ids": { "doi": "10.1007/978-3-030-00668-6" } } ],
+    "volume": "1",
+    "issue": "1-2",
+    "page": "119-136",
+    "type": "book chapter",
+    "publisher": [ 
+      { "name": "Springer International Publishing", "ids": { "crossref": "297" }} ],
+    "editor": [ 
+      { "name": "Peroni, Silvio", "ids": { "orcid": "0000-0003-0530-4305" } } ],
+    "citing": [ 
+      { "ids": { "doi": "10.1087/2009202;2009-04-01" }, "date": "2009-04-01", "raw": "" },
+      { "ids": { "doi": "10.1371/journal.pcbi.1000361" }, "date": "", "raw": "" },
+      { "ids": { "doi": "10.1007/978-3-642-33876-2_35" }, "date": "2012", "raw": "" },
+      { "ids": { "doi": "10.1186/2041-1480-1-S1-S6" }, "date": "2010-06-22", "raw": "" },
+      { "ids": { "doi": "10.1145/945645.945664" }, "date": "2003-10-23", "raw": "" },
+      { "ids": {}, "date": "", "raw": "Gangemi, A., Peroni, S., Vitali, F.: Literal reification. In: Proceedings of WOP 2010, pp. 65–66 (2010). http://ceur-ws.org/Vol-671/pat04.pdf" },
+      { "ids": {}, "date": "", "raw": "Hammond, T., Pasin, M.: The nature.com ontologies portal. In: Proceedings of LISC 2015 (2015). http://ceur-ws.org/Vol-1572/paper2.pdf" } ]
+  } 
 ]
 ```
 **label**
