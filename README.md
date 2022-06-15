@@ -51,4 +51,4 @@ Open Citations will then download and process this data and after processing mar
 
 **history**
 
-A history of all the deposits could be kept by doing the following. After processing an deposit, an entry in the Wiki could be made with a link to OpenCitations CROCI API with the DOI or other Identifier. The original issue can be removed after this. 
+A history of all the deposits could be kept by doing the following. After processing an deposit, an entry in the Wiki could be made with a link to OpenCitations CROCI API with the DOI or other Identifier. The original issue can be removed after this. With this process, the size of this repository can be kept small. 
