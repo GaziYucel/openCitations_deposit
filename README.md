@@ -1,8 +1,6 @@
 # Open Citations Croci Depot
 
-This example is created to show an alternate way of transmitting citations to Open Citations CROCI from within Open Journal Systems (OJS) through the plugin OptimetaCitations. As this is an proposal, all data formats below are open for discussion. 
-
-I created an example issue
+This example is created to show an alternate way of transmitting citations to Open Citations CROCI from within Open Journal Systems (OJS) through the plugin OptimetaCitations. As this is an proposal, all data formats below are open for discussion. Please also see the example issues. 
 
 **title**
 
