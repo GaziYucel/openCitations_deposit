@@ -2,11 +2,11 @@
 
 This example is created to show an alternate way of transmitting citations to Open Citations CROCI from within Open Journal Systems (OJS) through the plugin OptimetaCitations. As this is an proposal, all data formats below are open for discussion. Please also see the example issues. 
 
-**title**
+**issue:title**
 
 After an article is issued a DOI and published in OJS, the citations are published to this Github reporistory as an issue. The title will be in the following format: "deposit {domain name of journal} {doi or other identifier}". For example "deposit localhost:330 doi:10.1007/978-3-030-00668-6_8"
 
-**body**
+**issue:body**
 
 The body will consist of the metadata of the article and the citations in JSON form. 
 The structure is an combination of META-CSV and CITS-CSV as described https://arxiv.org/abs/2206.03971.
@@ -41,11 +41,12 @@ The structure is an combination of META-CSV and CITS-CSV as described https://ar
   } 
 ]
 ```
-**label**
+**issue:label**
 
 The label 'Deposit' will be added to the issue. 
 
 **next steps**
+
 Open Citations will then download and process this data and after processing mark the issue 'Done'. The deposit could also be rejected by marking the message 'Rejected'.
 
 **history**
